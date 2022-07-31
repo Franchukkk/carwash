@@ -50,7 +50,7 @@
 .phone p>a:last-child,
 .email p>a:last-child,
 .location p>a:last-child {
-    font-size: 20px;
+    font-size: 13gitpx;
     display: none;
     color: #0c426e;
 }
